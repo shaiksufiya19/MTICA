@@ -1,0 +1,7 @@
+fo=open(r"D:\Pythonpractice57\Day9\abc2.txt","w+")
+inpStr=input('Enter text:')
+fo.write(inpStr)
+inpStr=input('Enter text:')
+fo.write(inpStr)
+fo.close()
+print('Text Written to File')
