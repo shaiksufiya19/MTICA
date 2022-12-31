@@ -1,0 +1,10 @@
+day1:we learnt basics of python
+day2:Operators
+day3:List
+day4:Strings
+day5:Functions and modules
+day6:Conditional Statements
+day7:Revision of functions
+day8:variables
+day9:Pattern printing
+day10:Dictionaries
